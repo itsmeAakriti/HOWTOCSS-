@@ -1,0 +1,35 @@
+
+.box{
+    margin:50px auto;
+    width: 500px;
+    height: 400px;
+    background-color: #1DE592;
+    border-radius: 20px;
+    text-align:left;
+    padding: 50px;
+    font-family: system-ui ;
+  
+  }
+  .txtbox{
+    box-sizing: border-box;
+    
+  }
+  .head{
+    font-size: 50px;
+    font-weight: bold;
+   margin: 20px;
+  }
+  .para{
+    font-weight: 500;
+    margin: 20px ;
+  }
+  .btn{
+    border-radius: 100px;
+    padding: 0px 60px;
+   font-family: system-ui;
+   background-color: white;
+   border: none;
+   margin: 20px;
+  
+  }
+  
